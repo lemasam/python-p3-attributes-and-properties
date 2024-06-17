@@ -336,7 +336,7 @@ approved_breeds = ["Mastiff", "Chihuahua", "Corgi", "Shar Pei", "Beagle", "Frenc
 ```
 
 ![Dog
-Breeds](https://curriculum-content.s3.amazonaws.com/module-1/ruby-oo-fundamentals/object-attributes-lab/Image_142_CommonDogBreeds.png)
+Breeds]
 
 ### `Person` and `lib/person.py`
 
